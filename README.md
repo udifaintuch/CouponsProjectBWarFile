@@ -1,2 +1,2 @@
 # CouponsProjectBWarFile
-this is the coupond project war file
+this is the coupons project war file
